@@ -1,8 +1,9 @@
+
 # teste-everymind
 ## API para cadastrar usuários
 
 ## Cenário
-A empresa Olivia Trade solicitou uma API backend para cadastramento de usuários.
+A empresa Oliveira Trade solicitou uma API backend para cadastramento de usuários.
 
 ## Principais dependências
 Spring Web, Spring Data JPA, Spring Security, PostgreSQL Driver e Spring DevTools.
