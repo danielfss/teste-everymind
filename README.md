@@ -8,7 +8,7 @@ A empresa Oliveira Trade solicitou uma API backend para cadastramento de usuári
 ## Principais dependências
 Spring Web, Spring Data JPA, Spring Security, PostgreSQL Driver e Spring DevTools.
 
-## Rota
+## Rotas
 ### Cadastrar usuário
 Através de um REST Client como Postman, Insomnia ou uma aplicação frontend que faça consumo da API, é possível realizar o cadastro do usuário.
 
